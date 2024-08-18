@@ -8,42 +8,50 @@ STEB-Planner is a spatio-temporal elastic bands-based trajectory planner for aut
 ## Performance Display
 ### Static obstacle avoidance
 
-<div style="display: flex; justify-content: center;">
-    <div style="text-align: center; margin-right: 20px;">
-        <img src="docs/img/static_obstacle_avoidance_1.png" width="250"/>
-        <p>Scenario 1: Static Obstacle Avoidance</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="docs/img/static_obstacle_avoidance_2.png" width="250"/>
-        <p>Scenario 2: Static Obstacle Avoidance</p>
-    </div>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="docs/img/static_obstacle_avoidance_1.png" width="300"/>
+      <br>
+      <em>Scenario 1: Static Obstacle Avoidance</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="docs/img/static_obstacle_avoidance_2.png" width="300"/>
+      <br>
+      <em>Scenario 2: Static Obstacle Avoidance</em>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-    <img src="docs/img/static_obstacle_avoidance_2.png" width="300"/> <img src="docs/img/static_obstacle_avoidance_2.png" width="300"/>
-    
-</p>
 
 
 
 ### Dynamic traffic Interaction
-<div style="text-align: center; margin-right: 0px;">
-     <img src="docs/gif/overtaking.gif" width="520"/>
-    <p style="text-align: center;">Scenario 3: Overtaking a slow car ahead</p>
-</div>
 
-Some other scenes (the gif will be uploaded later)
-<div style="display: flex; justify-content: center;">
-    <div style="text-align: center; margin-right: 20px;">
-        <img src="docs/img/Up_left_turn.png" width="250"/>
-        <p>Scenario 4: Unprotected Left Turn (Scenario 3)</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="docs/img/merge.png" width="250"/>
-        <p>Scenario 5: Merge Into the Traffic (Scenario 4)</p>
-    </div>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td colspan="2" align="center" width="100%">
+      <img src="docs/gif/overtaking.gif" width="625"/>
+      <br>
+      <em>Scenario 3: Overtaking a slow car ahead</em>
+    </td>
+  </tr>
 
+  <tr>
+    <td  align="center" width="50%">
+      <img src="docs/img/Up_left_turn.png" width="300"/>
+      <br>
+      <em>Scenario 4: Unprotected Left Turn</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="docs/img/merge.png" width="300"/>
+      <br>
+      <em>Scenario 5: Merge Into the Traffic</em>
+    </td>
+  </tr>
+
+</table>
+The gif some other scenes will be uploaded later
 
 
 
