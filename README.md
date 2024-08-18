@@ -27,7 +27,7 @@ STEB-Planner is a spatio-temporal elastic bands-based trajectory planner for aut
 
 
 ### Dynamic traffic Interaction
-
+GIF playback speed is 1.6 times. More scenes will be uploaded later.
 <table border="0" width="100%">
   <tr>
     <td colspan="2" align="center" width="100%">
@@ -50,8 +50,14 @@ STEB-Planner is a spatio-temporal elastic bands-based trajectory planner for aut
     </td>
   </tr>
 
+  <tr>
+    <td colspan="2" align="center" width="100%">
+      <img src="docs/gif/Upleft.gif" width="625"/>
+      <br>
+      <em>Scenario 3: Overtaking a slow car ahead</em>
+    </td>
+  </tr>
 </table>
-The pics and gifs of some other scenes will be uploaded later
 
 
 
