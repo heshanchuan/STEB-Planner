@@ -19,6 +19,11 @@ STEB-Planner is a spatio-temporal elastic bands-based trajectory planner for aut
     </div>
 </div>
 
+<p align="center">
+    <img src="docs/img/static_obstacle_avoidance_2.png" width="300"/> <img src="docs/img/static_obstacle_avoidance_2.png" width="300"/>
+    
+</p>
+
 
 
 ### Dynamic traffic Interaction
