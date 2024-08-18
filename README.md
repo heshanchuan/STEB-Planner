@@ -51,7 +51,7 @@ STEB-Planner is a spatio-temporal elastic bands-based trajectory planner for aut
   </tr>
 
 </table>
-The gif some other scenes will be uploaded later
+The pics and gifs of some other scenes will be uploaded later
 
 
 
