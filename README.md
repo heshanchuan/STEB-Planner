@@ -54,7 +54,7 @@ GIF playback speed is 1.6 times. More scenes will be uploaded later.
     <td colspan="2" align="center" width="100%">
       <img src="docs/gif/Upleft.gif" width="625"/>
       <br>
-      <em>Scenario 3: Overtaking a slow car ahead</em>
+      <em>Scenario 4: Unprotected Left Turn</em>
     </td>
   </tr>
 </table>
