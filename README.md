@@ -68,6 +68,11 @@ GIF playback speed is 1.6 times. More scenes will be uploaded later.
 
 Our software is developed and tested in Ubuntu20.04 with ROS2 galactic. Follow [this link](https://docs.ros.org/en/galactic/Installation.html) to install galactic.
 
+
+### Required Library
+- Eigen3
+- PCL
+- OpenCV
 ### Simulation environment
 
 We use **Carla-0.9.15** as the simulator (download via this [link](https://github.com/carla-simulator/carla/releases/tag/0.9.15)).
@@ -79,13 +84,6 @@ export CARLA_ROOT=<path-to-carla>
 export PYTHONPATH=$PYTHONPATH:/carla_directory/PythonAPI/carla/dist/carla-0.9.15-py3.7-linux-x86_64.egg
 ```
 
-
-
-## Installation
-### Required Library
-- Eigen3
-- PCL
-- OpenCV
 
 ### Download & Compile
 ```bash
